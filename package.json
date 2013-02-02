@@ -1,0 +1,12 @@
+{
+  "name": "basbosa-mongo",
+  "version": "0.0.1",
+  "description": "Yet another mongodb-Backbone ORM",
+  "author": {
+    "name": "Youssef Garas",
+    "email": "ygaras@hub43.com"
+  },
+  "dependencies": {
+	
+  }   
+}
