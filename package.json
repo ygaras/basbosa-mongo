@@ -7,6 +7,9 @@
     "email": "ygaras@hub43.com"
   },
   "dependencies": {
-	
+    "backbone" : "0.9.10",
+    "underscore" : "1.4.4",
+    "basbosa-registry"	: "https://github.com/ygaras/basbosa-registry/tarball/master"
+    "async" : "0.2.5"
   }   
 }
