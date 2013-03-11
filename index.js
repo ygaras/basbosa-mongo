@@ -9,7 +9,6 @@ module.exports = {
 if (typeof 'Basbosa' !== 'undefined' && Basbosa('Config').get('db')) {
   if (Array.isArray(Basbosa('Config').get('db'))) {
     Basbosa('Config').get('db').forEach(function(connection) {
-      B('Logger').debug(connection);
       Basbosa('Cm').add(connection.name, connection);
     });
   } else if (typeof Basbosa('Config').get('db') === 'object') {
