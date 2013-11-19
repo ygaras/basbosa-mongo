@@ -1,5 +1,6 @@
 module.exports = {
-    Cm : require('./lib/cm'),
-    BasbosaModel : require('./lib/model'),
-    AutoModels : require('./lib/auto_models')
+  Cm : require('./lib/cm'),
+  BasbosaModel : require('./lib/model'),
+  BasbosaFsModel : require('./lib/model_fs'),
+  AutoModels : require('./lib/auto_models')
 };
