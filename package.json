@@ -2,6 +2,10 @@
   "name": "basbosa-mongo",
   "version": "0.0.1",
   "description": "Yet another mongodb-Backbone ORM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ygaras/basbosa-mongo/tarball/master"
+  },
   "author": {
     "name": "Youssef Garas",
     "email": "ygaras@hub43.com"
